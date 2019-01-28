@@ -176,4 +176,17 @@ opacity: 1;
   margin-right: 1;
 }
 
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  .form {
+  width: 100%;}
 
+  
+}
+
+@media (min-width: 1281px) {
+  
+.form {
+  width: 40%;}
+  
+}
