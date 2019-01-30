@@ -66,7 +66,7 @@ background-color: #404859;
  
 }
 #fname{
-padding-bottom: 24px;
+padding-bottom: 12px;
 }
 
 .page{
@@ -177,6 +177,9 @@ opacity: 1;
   
   .form {
   width: 70%;}
+#fname{
+padding-bottom: 24px;
+}
 
   
 }
