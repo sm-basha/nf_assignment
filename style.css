@@ -157,6 +157,8 @@ button{
   border-radius: 4px;
    padding: 10px 74px;
   height: 20px;
+      width: 234px;
+
 color: rgba(74, 74, 74, 0.9);
   font-weight: bold;
   display: inline-block;
