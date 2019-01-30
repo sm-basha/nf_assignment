@@ -28,6 +28,10 @@ hr {
 color: rgba(255, 255, 255, 0.5);
 }
 
+#fname{
+	padding-bottom: 10px;
+}
+
 .integrated-developme {
    font-size: 15px;
   text-align: center;
