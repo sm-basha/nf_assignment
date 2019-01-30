@@ -68,8 +68,8 @@ background-color: #404859;
 }
 #fname{
 padding-bottom: 10px;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 10;
+    padding-right: 10;
 }
 
 .page{
