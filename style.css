@@ -194,43 +194,7 @@ opacity: 1;
 
 }
 
-
-
-
-
-@media (min-width: 320px) and (max-width: 480px) {
-  
-  .form {
-  width: 70%;}
-#fname{
-padding-bottom: 24px;
- 
-    padding-left: 0;
-    padding-right: 0;
-}
-
-  input[type=text], select {
- padding-top: 30px;
-  
-}
-input[type=email], select {
-padding-top: 30px;
-}
-input[type=password], select {
-  padding-top: 30px;
-  
-}
-input[type=submit] {
-
- 
-}
-
-#fname{
-padding-bottom: 12px;
-}
-
 label {
   width:170px;
   display: inline-block;
 }
-
