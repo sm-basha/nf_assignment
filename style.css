@@ -176,6 +176,28 @@ opacity: 1;
   margin-right: 1;
 }
 
+
+.google1 {
+  background-color: white; 
+  border-radius: 4px;
+padding: 10px 107px;
+  height: 20px;
+color: rgba(74, 74, 74, 0.9);
+  font-weight: bold;
+  display: inline-block;
+  
+}
+.google1 p{
+display: inline-flex;
+  margin: 0;
+opacity: 1;
+
+}
+
+
+
+
+
 @media (min-width: 320px) and (max-width: 480px) {
   
   .form {
