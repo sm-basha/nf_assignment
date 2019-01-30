@@ -229,25 +229,8 @@ input[type=submit] {
 padding-bottom: 12px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+label {
+  width:170px;
+  display: inline-block;
 }
 
-@media (min-width: 1281px) {
-
-}
